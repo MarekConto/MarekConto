@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarekConto
 - 👀 I’m interested in learning all new stuff
 - 🚲 I love all sports and race bikes
-- 🤔 Basic undertanding of Python and SQL
+- 🤔 Basic understanding of Python and SQL
 - 🌱 Currently learning C
