@@ -2,4 +2,4 @@
 - 👀 I’m interested in learning all new stuff
 - 🚲 Love all sports and race bikes
 - 🤔 Basic understanding of Python, SQL and a bit of C
-- 🌱 Currently learning C#, JS, React.. basically everything :D
+- 🌱 Currently learning everything that comes by me :D
